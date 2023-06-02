@@ -49,7 +49,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Resistor.SchLib
+DocumentPath=Resistor_1206.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QKLNELPF
+
+[Document2]
+DocumentPath=Resistor_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -65,7 +82,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIDQLECM
 
-[Document2]
+[Document3]
+DocumentPath=Resistor_0603.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EIRHHUUB
+
+[Document4]
 DocumentPath=Variable_Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNZLWNZO
 
-[Document3]
+[Document5]
 DocumentPath=Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOHZNIYR
 
-[Document4]
+[Document6]
 DocumentPath=Ferrite.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,8 +150,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGIJYSPY
 
-[Document5]
-DocumentPath=Capacitor.SchLib
+[Document7]
+DocumentPath=Capacitor_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZURZWABM
 
-[Document6]
+[Document8]
 DocumentPath=Varistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCVXXRXY
 
-[Document7]
+[Document9]
 DocumentPath=Fuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXKHCOTZ
 
-[Document8]
+[Document10]
 DocumentPath=PC_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQFEXYFQ
 
-[Document9]
+[Document11]
 DocumentPath=PC_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMNPJIVX
 
-[Document10]
+[Document12]
 DocumentPath=PC_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBXGRGLL
 
-[Document11]
+[Document13]
 DocumentPath=Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYEQXJDK
 
-[Document12]
+[Document14]
 DocumentPath=Aluminium_Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWBKTDEQ
 
-[Document13]
+[Document15]
 DocumentPath=Varistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYJXMSQL
 
-[Document14]
+[Document16]
 DocumentPath=Variable_Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGOEOMEP
 
-[Document15]
+[Document17]
 DocumentPath=Ferrite.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
