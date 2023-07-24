@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OHFPQNQA
 
 [Document3]
-DocumentPath=LMR16020PDDA.SchLib
+DocumentPath=AMS_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -97,10 +97,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QLTVYYFV
+DocumentUniqueId=HLEIVYYT
 
 [Document4]
-DocumentPath=LMR16020PDDA.PcbLib
+DocumentPath=AMS_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,7 +114,8 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMJRPDHE
+DocumentUniqueId=JBZAFCZT
+
 
 [OutputGroup1]
 Name=Netlist Outputs
