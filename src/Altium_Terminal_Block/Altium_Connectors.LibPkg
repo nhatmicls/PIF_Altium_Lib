@@ -49,40 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Terminal_Blocks.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NUNPUHXQ
-
-[Document2]
-DocumentPath=Terminal_Blocks.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MWNFLOWO
-
-[Document3]
 DocumentPath=Terminal_Blocks_Pluggable_3.81mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SADQXJBT
 
-[Document4]
+[Document2]
 DocumentPath=Terminal_Blocks_Pluggable PCB_3.81mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGOVCMTL
 
-[Document5]
+[Document3]
 DocumentPath=Terminal_Blocks_Pluggable_5.08mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOBWRFLC
 
-[Document6]
+[Document4]
 DocumentPath=Terminal_Blocks_PLC_7.62mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,8 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEDYTCDJ
 
-[Document7]
-DocumentPath=Terminal_Blocks_Spring Clamp_2.54mm.SchLib
+[Document5]
+DocumentPath=Terminal_Blocks_Spring_Clamp_2.54mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,25 +133,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVCKXTDR
 
-[Document8]
-DocumentPath=Terminal_Blocks_Sprint Clamp PCB_2.54mm.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QQKTFGAR
-
-[Document9]
-DocumentPath=Terminal_Blocks_PLC PCB_7.62mm.PcbLib
+[Document6]
+DocumentPath=Terminal_Blocks_PLC_7.62mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -201,7 +150,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIJLBUDQ
 
-[Document10]
+[Document7]
+DocumentPath=Terminal_Blocks_Spring_Clamp_2.54mm.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QQKTFGAR
+
+[Document8]
 DocumentPath=Terminal_Blocks_Spring Clamp_5.08mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMYUUDDA
 
-[Document11]
+[Document9]
 DocumentPath=Terminal_Blocks_Sprint Clamp PCB_5.08mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRHFDSXX
 
-[Document12]
+[Document10]
 DocumentPath=Terminal_Blocks_Rising Cage Clamp_2.54mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRBRWRFF
 
-[Document13]
+[Document11]
 DocumentPath=Terminal_Blocks_Rising Case Clamp PCB_2.54mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGOQYAYB
 
-[Document14]
+[Document12]
 DocumentPath=Terminal_Blocks_Spring Clamp_3.5mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHNORHCW
 
-[Document15]
+[Document13]
 DocumentPath=Terminal_Blocks_Rising Case Clamp PCB_3.5mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCVOYMUI
 
-[Document16]
+[Document14]
 DocumentPath=Terminal_Blocks_Rising Cage Clamp_5mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGJGJFBE
 
-[Document17]
+[Document15]
 DocumentPath=Terminal_Blocks_Rising Case Clamp PCB_5mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWWXQCXV
 
-[Document18]
+[Document16]
 DocumentPath=Terminal_Blocks_Rising Cage Clamp_5.08mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCUQTKFU
 
-[Document19]
+[Document17]
 DocumentPath=Terminal_Blocks_Rising Case Clamp PCB_5.08mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,6 +336,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHBUODUB
+
+[Document18]
+DocumentPath=Terminal_Blocks_Pluggable PCB_5.08mm.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBMNZJWT
+
+[Document19]
+DocumentPath=Terminal_Blocks_Sprint Clamp PCB_3.50mm.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XGDTGDSL
+
+[Document20]
+DocumentPath=Terminal_Blocks_Sprint Clamp PCB_3.50mm_2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -576,6 +593,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
