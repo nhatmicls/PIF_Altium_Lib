@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EIRHHUUB
 
 [Document3]
-DocumentPath=RESISTOR_SMD.PcbLib
+DocumentPath=Resistor_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
