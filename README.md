@@ -12,16 +12,27 @@
 - Coil Inductor
 - EMI Coil
 - Self recovery SMD fuse and Fuse box
-- SMD blur, bright LED
+- SMD blur, clear LED
 - Mechanic stuff (Tooling hole, mounting hole, fiducial)
-- Terminal block, IO connector
+- Terminal block
 - Mounting Antenna and SMD Antenna
+- Multi MCU (Nordic, STM, ESP)
+- Multi power supply IC
+
+**Support size SMD:**
+
+- 0805
+- 0603
 
 **List of things WIP:**
 
 - SMD Inductor
 - Varistors
 - Variable Resitor
+- Multi-type ICs
+- IO connector
+- Ferrit
+- Relay SPST, PDT case, SPST case
 
 ## Contributors
 
