@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_1.27mm.PcbLib
+DocumentPath=WR-PHD_Pin Header_1.27mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -59,14 +59,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_1.27mm.SchLib
+DocumentPath=WR-PHD_Pin Header_1.27mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -76,14 +76,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_2.00mm.PcbLib
+DocumentPath=WR-PHD_Pin Header_2.00mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -93,14 +93,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YLOGBUXO
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_2.00mm.SchLib
+DocumentPath=WR-PHD_Pin Header_2.00mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -110,14 +110,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_2.54mm.PcbLib
+DocumentPath=WR-PHD_Pin Header_2.54mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -127,14 +127,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NXEYHMAM
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Pin Header_2.54mm.SchLib
+DocumentPath=WR-PHD_Pin Header_2.54mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,14 +144,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NFRESDUA
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_1.27mm.PcbLib
+DocumentPath=WR-PHD_Socket Header_1.27mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -161,14 +161,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_1.27mm.SchLib
+DocumentPath=WR-PHD_Socket Header_1.27mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -178,14 +178,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_2.00mm.PcbLib
+DocumentPath=WR-PHD_Socket Header_2.00mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -195,14 +195,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_2.00mm.SchLib
+DocumentPath=WR-PHD_Socket Header_2.00mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -212,14 +212,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_2.54mm.PcbLib
+DocumentPath=WR-PHD_Socket Header_2.54mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -229,14 +229,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\TASK THƯ VIỆN ALTIUM\Task 1\Altium_WR-PHD (rev20a)\Altium_WR-PHD (rev20a)\WR-PHD_Socket Header_2.54mm.SchLib
+DocumentPath=WR-PHD_Socket Header_2.54mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -246,11 +246,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CVTBTIWM
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -457,6 +457,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
