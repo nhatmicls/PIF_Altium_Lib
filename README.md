@@ -41,3 +41,9 @@
 ## License
 
 This project is licensed under the [MIT](LICENSE) license.
+
+## Disclaim
+
+- Local supplier only availble at Viet Nam.
+- For local supplier not always supply right manufacturer of passive component so I choice a passive component with same vaule with design. If your product need to use right manufacturer please use global supplies.
+- Some component will have wrong parameter please open an issuse for me to fix it asap.
