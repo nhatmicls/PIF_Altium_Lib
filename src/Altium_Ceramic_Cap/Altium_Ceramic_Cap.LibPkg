@@ -133,14 +133,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMNPJIVX
 
-[GeneratedDocument1]
-DocumentPath=Capacitor_0805_10_percent.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Capacitor_0805_10_percent.rep
-DItemRevisionGUID=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
