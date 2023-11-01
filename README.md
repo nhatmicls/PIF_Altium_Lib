@@ -7,17 +7,24 @@
 
 **List of things add in this:**
 
-- Alutinum Capacitor, Tanta Capacitor, Ceramic Capacitor
-- SMD Resistor
-- Coil Inductor
-- EMI Coil
-- Self recovery SMD fuse and Fuse box
-- SMD blur, clear LED
-- Mechanic stuff (Tooling hole, mounting hole, fiducial)
-- Terminal block
-- Mounting Antenna and SMD Antenna
-- Multi MCU (Nordic, STM, ESP)
+- Capacitor:
+  - Alutinum Capacitor
+  - Tanta Capacitor
+  - Ceramic Capacitor
+- Resistor:
+- Inductor:
+  - SMD Inductor
+  - Coil Inductor
+  - EMI Coil
+  - Ferrit
+- Self recovery fuse and fuse box
+- SMD LED (blur, clear)
+- Mechanical stuff (Tooling hole, mounting hole, fiducial)
+- Terminal block, connector, USB, ...
+- Mounting and SMD Antenna
+- Multi MCU (Nordic, STM32, ESP)
 - Multi power supply IC
+- Relay SPST, PDT case, SPST case
 
 **Support size SMD:**
 
@@ -26,13 +33,9 @@
 
 **List of things WIP:**
 
-- SMD Inductor
 - Varistors
 - Variable Resitor
 - Multi-type ICs
-- IO connector
-- Ferrit
-- Relay SPST, PDT case, SPST case
 
 ## Contributors
 
@@ -41,6 +44,10 @@
 ## License
 
 This project is licensed under the [MIT](LICENSE) license.
+
+## Document
+
+Please go to `doc` folder for more detail about this project
 
 ## Disclaim
 
