@@ -455,7 +455,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SZFYQCXY
 
 [Document25]
 DocumentPath=IMU.PcbLib
@@ -489,7 +489,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLTQQJXR
 
 [Document27]
 DocumentPath=USB_Interface.PcbLib
@@ -523,7 +523,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DJVTSWIE
 
 [Document29]
 DocumentPath=Wifi.PcbLib
