@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=DAC.PcbLib
+DocumentPath=ADC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,9 +64,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HKSXFVWY
+DocumentUniqueId=CBKMJSKN
 
 [Document2]
+DocumentPath=ADC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KKASLARY
+
+[Document3]
 DocumentPath=DAC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLKGYUTC
 
-[Document3]
-DocumentPath=Flash.PcbLib
+[Document4]
+DocumentPath=DAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,9 +115,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XDSDQSUE
+DocumentUniqueId=HKSXFVWY
 
-[Document4]
+[Document5]
 DocumentPath=Flash.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,8 +134,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGYWOQEE
 
-[Document5]
-DocumentPath=I2C.PcbLib
+[Document6]
+DocumentPath=Flash.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,9 +149,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XDSDQSUE
 
-[Document6]
+[Document7]
 DocumentPath=I2C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,8 +168,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTFOHLKH
 
-[Document7]
-DocumentPath=RTC.PcbLib
+[Document8]
+DocumentPath=I2C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,9 +183,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BPRRHTQY
+DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=RTC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,8 +202,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FACJCSSG
 
-[Document9]
-DocumentPath=EEPROM.PcbLib
+[Document10]
+DocumentPath=RTC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,9 +217,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EXAQAQZF
+DocumentUniqueId=BPRRHTQY
 
-[Document10]
+[Document11]
 DocumentPath=EEPROM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,8 +236,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKPMUFCM
 
-[Document11]
-DocumentPath=RAM.PcbLib
+[Document12]
+DocumentPath=EEPROM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,9 +251,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OVFYWQJG
+DocumentUniqueId=EXAQAQZF
 
-[Document12]
+[Document13]
 DocumentPath=RAM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +270,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSMPSLMJ
 
-[Document13]
-DocumentPath=CAN.PcbLib
+[Document14]
+DocumentPath=RAM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -268,9 +285,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TRKUQNSU
+DocumentUniqueId=OVFYWQJG
 
-[Document14]
+[Document15]
 DocumentPath=CAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,8 +304,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDFJZMJH
 
-[Document15]
-DocumentPath=TouchSensorIC.PcbLib
+[Document16]
+DocumentPath=CAN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -302,9 +319,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WFKLDPID
+DocumentUniqueId=TRKUQNSU
 
-[Document16]
+[Document17]
 DocumentPath=TouchSensorIC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,8 +338,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGPQEFVP
 
-[Document17]
-DocumentPath=Buffer.PcbLib
+[Document18]
+DocumentPath=TouchSensorIC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -336,9 +353,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IGDBRXIK
+DocumentUniqueId=WFKLDPID
 
-[Document18]
+[Document19]
 DocumentPath=Buffer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,8 +372,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFHNFLNZ
 
-[Document19]
-DocumentPath=OPAMP.PcbLib
+[Document20]
+DocumentPath=Buffer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -370,9 +387,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XNSQBMRR
+DocumentUniqueId=IGDBRXIK
 
-[Document20]
+[Document21]
 DocumentPath=OPAMP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,8 +406,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYAFXNJS
 
-[Document21]
-DocumentPath=RS485.PcbLib
+[Document22]
+DocumentPath=OPAMP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -404,9 +421,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YKNYFOFG
+DocumentUniqueId=XNSQBMRR
 
-[Document22]
+[Document23]
 DocumentPath=RS485.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,8 +440,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFRSKSNZ
 
-[Document23]
-DocumentPath=Ethernet_IC.PcbLib
+[Document24]
+DocumentPath=RS485.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -438,9 +455,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YKNYFOFG
 
-[Document24]
+[Document25]
 DocumentPath=Ethernet_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,8 +474,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZFYQCXY
 
-[Document25]
-DocumentPath=IMU.PcbLib
+[Document26]
+DocumentPath=Ethernet_IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -472,9 +489,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGBEPEFH
 
-[Document26]
+[Document27]
 DocumentPath=IMU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,8 +508,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLTQQJXR
 
-[Document27]
-DocumentPath=USB_Interface.PcbLib
+[Document28]
+DocumentPath=IMU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -506,9 +523,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ESXWNXRI
 
-[Document28]
+[Document29]
 DocumentPath=USB_Interface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,8 +542,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJVTSWIE
 
-[Document29]
-DocumentPath=Wifi.PcbLib
+[Document30]
+DocumentPath=USB_Interface.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -540,9 +557,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EXCOJPFI
+DocumentUniqueId=LHYIZSDC
 
-[Document30]
+[Document31]
 DocumentPath=Wifi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,8 +576,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZGEDDRO
 
-[Document31]
-DocumentPath=LevelShift.PcbLib
+[Document32]
+DocumentPath=Wifi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -574,9 +591,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KJVVBETI
+DocumentUniqueId=EXCOJPFI
 
-[Document32]
+[Document33]
 DocumentPath=LevelShift.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,8 +610,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCKVKPLP
 
-[Document33]
-DocumentPath=IO_Expander.PcbLib
+[Document34]
+DocumentPath=LevelShift.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -608,9 +625,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VPWHIOCW
+DocumentUniqueId=KJVVBETI
 
-[Document34]
+[Document35]
 DocumentPath=IO_Expander.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,8 +644,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLABTNHI
 
-[Document35]
-DocumentPath=Supervisor.PcbLib
+[Document36]
+DocumentPath=IO_Expander.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -642,9 +659,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NUJYPTPT
+DocumentUniqueId=VPWHIOCW
 
-[Document36]
+[Document37]
 DocumentPath=Supervisor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,8 +678,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWCVLOLZ
 
-[Document37]
-DocumentPath=CurrentSensor.PcbLib
+[Document38]
+DocumentPath=Supervisor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -676,9 +693,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CYBGAOUI
+DocumentUniqueId=NUJYPTPT
 
-[Document38]
+[Document39]
 DocumentPath=CurrentSensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,8 +712,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUMRFBV
 
-[Document39]
-DocumentPath=Other.PcbLib
+[Document40]
+DocumentPath=CurrentSensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -710,9 +727,43 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WPTGATIR
+DocumentUniqueId=CYBGAOUI
 
-[Document40]
+[Document41]
+DocumentPath=RF.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WRJZPADM
+
+[Document42]
+DocumentPath=RF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OMCNMVDF
+
+[Document43]
 DocumentPath=Other.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,6 +779,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDLEODPM
+
+[Document44]
+DocumentPath=Other.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WPTGATIR
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -956,6 +1024,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1356,6 +1429,18 @@ Type135=1
 Type136=1
 Type137=1
 Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
 
 [Difference Levels]
 Type1=1
@@ -1432,6 +1517,13 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1587,6 +1679,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

@@ -45,6 +45,51 @@
 
 This project is licensed under the [MIT](LICENSE) license.
 
+## Build Scripts
+
+This repository includes batch scripts to manage the release folder.
+
+### BuildReleaseFolder.bat
+
+This script copies all `.IntLib` files from the `src` directory and its subdirectories to the `release` folder.
+
+**Usage:**
+
+```batch
+BuildReleaseFolder.bat
+```
+
+**What it does:**
+
+1. Creates the `release` folder if it doesn't exist
+2. Recursively finds all `.IntLib` files in the `src` directory
+3. Copies each file to the `release` folder (overwrites existing files)
+4. Displays progress for each file copied
+5. Shows a summary of total files copied
+6. Automatically runs verification to ensure files were copied correctly
+
+### VerifyRelease.bat
+
+This script verifies that all `.IntLib` files in the `release` folder match their source files in the `src` directory.
+
+**Usage:**
+
+```batch
+VerifyRelease.bat
+```
+
+**What it does:**
+
+1. Compares each `.IntLib` file in `src` with its corresponding file in `release`
+2. Checks file existence, size, and performs binary comparison
+3. Reports the status of each file:
+   - **MATCH**: File exists in release and is identical to source
+   - **MISMATCH**: File exists but differs from source (size or content)
+   - **MISSING**: File exists in source but not in release
+4. Displays a summary of verification results
+
+**Note:** The `release` folder is automatically generated and should not be edited manually. All changes should be made in the `src` directory, then rebuild using the script.
+
 ## Document
 
 Please go to `doc` folder for more detail about this project

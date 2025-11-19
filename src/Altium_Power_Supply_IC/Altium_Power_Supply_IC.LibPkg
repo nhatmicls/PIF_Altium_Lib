@@ -220,74 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ZMASETLQ
 
 [Document11]
-DocumentPath=MCP_family.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=MCP_family.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZYKOPOYC
-
-[Document13]
-DocumentPath=MIC5219-x.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
-DocumentPath=MIC5219-x.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LUJGQTTN
-
-[Document15]
 DocumentPath=RT9193 .PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYGYNCFG
 
-[Document16]
+[Document12]
 DocumentPath=RT9193.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOQCHNSB
 
-[Document17]
+[Document13]
 DocumentPath=TPS543xx_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFHRIFCC
 
-[Document18]
+[Document14]
 DocumentPath=TPS543xx_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,41 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMYIKHLL
 
-[Document19]
-DocumentPath=TPS84250RKGR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=TPS84250RKGR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TKVNJSQG
-
-[Document21]
+[Document15]
 DocumentPath=Power_Mux.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGCJPLVH
 
-[Document22]
+[Document16]
 DocumentPath=Power_Mux.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEZJXVZV
 
-[Document23]
+[Document17]
 DocumentPath=Power_Control.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCVQJAXF
 
-[Document24]
+[Document18]
 DocumentPath=Power_Control.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKPCCJSI
 
-[Document25]
+[Document19]
 DocumentPath=LM2596_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCUECPNT
 
-[Document26]
+[Document20]
 DocumentPath=LM2596_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +389,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHZVMSJP
 
-[Document27]
+[Document21]
+DocumentPath=TLV_family.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCNFCMWK
+
+[Document22]
 DocumentPath=TLV_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,8 +423,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPQWMOOE
 
-[Document28]
-DocumentPath=TLV_family.PcbLib
+[Document23]
+DocumentPath=LM1117_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -523,7 +438,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VCNFCMWK
+DocumentUniqueId=CEEPAXFD
+
+[Document24]
+DocumentPath=LM1117_family.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EGNBLSKS
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1006,6 +938,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
