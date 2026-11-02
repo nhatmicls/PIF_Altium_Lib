@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JLAOVYLI
 
 [Document3]
+DocumentPath=Zener_Diodes.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNFXJXWI
+
+[Document4]
 DocumentPath=Zener_Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITOFSYCW
 
-[Document4]
+[Document5]
 DocumentPath=Diode_Bridge.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQRDHWOS
 
-[Document5]
+[Document6]
 DocumentPath=Diode_Array.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZLAPVWQ
 
-[Document6]
+[Document7]
 DocumentPath=Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

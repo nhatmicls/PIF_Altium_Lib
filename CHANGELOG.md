@@ -7,22 +7,27 @@ All notable changes to PIF_Altium_Lib will be documented in this file.
 ### Changed
 - **Altium_IC split into smaller category libraries** - libraries moved out of `Altium_IC` (files unchanged):
   - `Altium_NVM` (new) - `EEPROM`
-  - `Altium_Analog_IC` (new) - `OPAMP`, plus new `Comparator` library (currently a copy of `OPAMP`)
-  - `Altium_Motor_Driver_IC` (new) - `StepDriver`, plus new `H_Bridge` library (currently a copy of `StepDriver`)
+  - `Altium_Analog_IC` (new) - `OPAMP`, plus new `Comparator` library
+  - `Altium_Motor_Driver_IC` (new) - `StepDriver`, plus new `H_Bridge` library
   - `Altium_Wire_Interface` (new) - `CAN`, `Ethernet_IC`, `RS485`, `USB_Interface`
   - `Altium_Wireless_Interface` (new) - `RF`, `Wifi`
   - `Altium_Logic_IC` - `Buffer`
 - **Altium_Logic_IC** - Renamed `AndGate` to `AND_Gate`
 - **Altium_MOSFET** - Split `MOSFET.SchLib` into `N_MOSFET.SchLib` and `P_MOSFET.SchLib`
+- **Altium_NVM** - Moved `Flash` from `Altium_Flash` (files unchanged); `Altium_Flash` removed
+- **Altium_Diode** - Added new `Zener_Diodes.PcbLib` library
 
 ### Added
 - **P_MOSFET.SchLib / MOSFET.PcbLib** - DMP4015SPSQ-13, IRF7416TRPBF, SI7155DP-T1-GE3, SQJ409EP-T1_GE3
 - **ESD.SchLib / .PcbLib** - ESD9L5.0ST5G, SMBJ24CA, SMCJ48CA
 - **Altium_Other.SchLib / .PcbLib** - Net Tie
 - **Aluminum_Electrolytic_Cap.SchLib / Aluminum_THT_Cap.PcbLib** (new) - 100ZLJ100M10X20 and THT aluminum capacitor footprints (WCAP-ATG5)
+- **Comparator.SchLib / .PcbLib** - LM393DR (replaces the LM358DR placeholder copied from `OPAMP`)
+- **H_Bridge.SchLib / .PcbLib** - LM5106MMX/NOPB, UCC27517DBVR (replace the placeholders copied from `StepDriver`)
+- **Zener_Diodes.SchLib / .PcbLib** - MMSZ5222BT1G
 
 ### Fixed
-- Minor fixes in **Aluminum_Polymer_Cap.SchLib**, **Capacitor_0603/0805/1206/1210.SchLib**, **Capacitor.PcbLib**, **Inductor_0603.SchLib**, **Resistor_1206/2817.SchLib**, **Fuse_SMD.SchLib**, **LM1117_family.SchLib**, **WR-PHD_Pin Header_2.54mm.SchLib**, **Altium_Module.PcbLib**
+- Minor fixes in **Aluminum_Polymer_Cap.SchLib**, **Capacitor_0603/0805/1206/1210.SchLib**, **Capacitor.PcbLib**, **Inductor_0603.SchLib**, **Resistor_0603/1206/2817.SchLib**, **Fuse_SMD.SchLib**, **LM1117_family.SchLib**, **WR-PHD_Pin Header_2.54mm.SchLib**, **Altium_Module.PcbLib**
 - **Aluminum_Electrolytic_Cap.SchLib** - Removed Würth 865080xxxxxx series (60 parts)
 
 ## [2026-06-23]
