@@ -7,8 +7,8 @@ All notable changes to PIF_Altium_Lib will be documented in this file.
 ### Changed
 - **Altium_IC split into smaller category libraries** - libraries moved out of `Altium_IC` (files unchanged):
   - `Altium_NVM` (new) - `EEPROM`
-  - `Altium_Analog_IC` (new) - `OPAMP`
-  - `Altium_Motor_Driver_IC` (new) - `StepDriver`
+  - `Altium_Analog_IC` (new) - `OPAMP`, plus new `Comparator` library (currently a copy of `OPAMP`)
+  - `Altium_Motor_Driver_IC` (new) - `StepDriver`, plus new `H_Bridge` library (currently a copy of `StepDriver`)
   - `Altium_Wire_Interface` (new) - `CAN`, `Ethernet_IC`, `RS485`, `USB_Interface`
   - `Altium_Wireless_Interface` (new) - `RF`, `Wifi`
   - `Altium_Logic_IC` - `Buffer`
@@ -16,27 +16,14 @@ All notable changes to PIF_Altium_Lib will be documented in this file.
 - **Altium_MOSFET** - Split `MOSFET.SchLib` into `N_MOSFET.SchLib` and `P_MOSFET.SchLib`
 
 ### Added
-- **Comparator.SchLib / .PcbLib** (`Altium_Analog_IC`) - LM358DR
-- **H_Bridge.SchLib / .PcbLib** (`Altium_Motor_Driver_IC`) - DRV8461DDWR, TMC5160A-TA-T
-- **P_MOSFET.SchLib** - DMP4015SPSQ-13, IRF7416TRPBF, SI7155DP-T1-GE3, SQJ409EP-T1_GE3 (plus P-channel parts moved from `MOSFET.SchLib`)
-- **Aluminum_THT_Cap.PcbLib** - Through-hole aluminum capacitor footprints
-- **Aluminum_Electrolytic_Cap.SchLib** - 100ZLJ100M10X20
-- **Aluminum_Polymer_Cap.SchLib** - PCR1H181MCL1GS, RYHV100V68UF10*10
-- **AND_Gate.SchLib** - SN74LVC08ADR, SN74LVC1G08DBVR
-- **ESD.SchLib** - ESD9L5.0ST5G, SMBJ24CA, SMCJ48CA
-- **Fuse_SMD.SchLib** - 0451001.MRL
-- **Capacitor_1210.SchLib** - 01121010610100
-- **Inductor_0603.SchLib** - 02060324302500
-- **Resistor_2817.SchLib** - 002817R0331
-- **Altium_Other.SchLib** - Net Tie
+- **P_MOSFET.SchLib / MOSFET.PcbLib** - DMP4015SPSQ-13, IRF7416TRPBF, SI7155DP-T1-GE3, SQJ409EP-T1_GE3
+- **ESD.SchLib / .PcbLib** - ESD9L5.0ST5G, SMBJ24CA, SMCJ48CA
+- **Altium_Other.SchLib / .PcbLib** - Net Tie
+- **Aluminum_Electrolytic_Cap.SchLib / Aluminum_THT_Cap.PcbLib** (new) - 100ZLJ100M10X20 and THT aluminum capacitor footprints (WCAP-ATG5)
 
-### Removed
-- **Aluminum_Electrolytic_Cap.SchLib** - Würth 865080xxxxxx series (60 parts)
-- **Capacitor_1206.SchLib** - 01120610610100
-
-### Updated
-- Footprints in **Capacitor.PcbLib**, **ESD.PcbLib**, **MOSFET.PcbLib**, **Altium_Module.PcbLib**, **Altium_Other.PcbLib**
-- Component parameters in **Capacitor_0603/0805.SchLib**, **Resistor_1206.SchLib**, **Inductor_0603.SchLib**, **LM1117_family.SchLib**, **WR-PHD_Pin Header_2.54mm.SchLib**
+### Fixed
+- Minor fixes in **Aluminum_Polymer_Cap.SchLib**, **Capacitor_0603/0805/1206/1210.SchLib**, **Capacitor.PcbLib**, **Inductor_0603.SchLib**, **Resistor_1206/2817.SchLib**, **Fuse_SMD.SchLib**, **LM1117_family.SchLib**, **WR-PHD_Pin Header_2.54mm.SchLib**, **Altium_Module.PcbLib**
+- **Aluminum_Electrolytic_Cap.SchLib** - Removed Würth 865080xxxxxx series (60 parts)
 
 ## [2026-06-23]
 
