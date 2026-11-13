@@ -220,40 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WFKLDPID
 
 [Document11]
-DocumentPath=IMU.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WLTQQJXR
-
-[Document12]
-DocumentPath=IMU.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ESXWNXRI
-
-[Document13]
 DocumentPath=LevelShift.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCKVKPLP
 
-[Document14]
+[Document12]
 DocumentPath=LevelShift.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJVVBETI
 
-[Document15]
+[Document13]
 DocumentPath=IO_Expander.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLABTNHI
 
-[Document16]
+[Document14]
 DocumentPath=IO_Expander.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPWHIOCW
 
-[Document17]
+[Document15]
 DocumentPath=Supervisor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWCVLOLZ
 
-[Document18]
+[Document16]
 DocumentPath=Supervisor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUJYPTPT
 
-[Document19]
+[Document17]
 DocumentPath=CurrentSensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUMRFBV
 
-[Document20]
+[Document18]
 DocumentPath=CurrentSensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYBGAOUI
 
-[Document21]
+[Document19]
 DocumentPath=Other.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDLEODPM
 
-[Document22]
+[Document20]
 DocumentPath=Other.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
