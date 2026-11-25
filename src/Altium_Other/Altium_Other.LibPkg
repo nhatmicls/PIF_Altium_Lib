@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SIPTWIFN
 
 [Document7]
-DocumentPath=Altium_SIM.SchLib
+DocumentPath=Altium_Socket.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AGBVWCGH
 
 [Document8]
-DocumentPath=Altium_SIM.PcbLib
+DocumentPath=Altium_Socket.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

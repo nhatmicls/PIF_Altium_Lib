@@ -118,74 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HLEIVYYT
 
 [Document5]
-DocumentPath=78xx.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ODUPTASI
-
-[Document6]
-DocumentPath=78xx.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RSIKCLCS
-
-[Document7]
-DocumentPath=LMR16020PDDA.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QLTVYYFV
-
-[Document8]
-DocumentPath=LMR16020PDDA.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EMJRPDHE
-
-[Document9]
 DocumentPath=LP2985.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMASETLQ
 
-[Document10]
+[Document6]
 DocumentPath=LP2985.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document7]
 DocumentPath=RT9193.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOQCHNSB
 
-[Document12]
+[Document8]
 DocumentPath=RT9193 .PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +185,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYGYNCFG
 
-[Document13]
-DocumentPath=TPS543xx_family.SchLib
+[Document9]
+DocumentPath=TPS_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,8 +202,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMYIKHLL
 
-[Document14]
-DocumentPath=TPS543xx_family.PcbLib
+[Document10]
+DocumentPath=TPS_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFHRIFCC
 
-[Document15]
+[Document11]
 DocumentPath=Power_Mux.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEZJXVZV
 
-[Document16]
+[Document12]
 DocumentPath=Power_Mux.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGCJPLVH
 
-[Document17]
+[Document13]
 DocumentPath=LM2596_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHZVMSJP
 
-[Document18]
+[Document14]
 DocumentPath=LM2596_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCUECPNT
 
-[Document19]
+[Document15]
 DocumentPath=TLV_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPQWMOOE
 
-[Document20]
+[Document16]
 DocumentPath=TLV_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCNFCMWK
 
-[Document21]
+[Document17]
 DocumentPath=LM_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGNBLSKS
 
-[Document22]
+[Document18]
 DocumentPath=LM_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEEPAXFD
 
-[Document23]
+[Document19]
 DocumentPath=Specialized.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJRNHZHN
 
-[Document24]
+[Document20]
 DocumentPath=Specialized.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEVUEDCY
 
-[Document25]
+[Document21]
 DocumentPath=LV28xx_family.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHATJDEB
 
-[Document26]
+[Document22]
 DocumentPath=LV28xx_family.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -977,36 +909,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

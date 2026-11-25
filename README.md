@@ -21,10 +21,16 @@
 - SMD LED (blur, clear)
 - Mechanical stuff (Tooling hole, mounting hole, fiducial)
 - Terminal block, connector, USB, ...
+- Board-to-board connector (BM28B0.6 series)
 - Mounting and SMD Antenna
 - Multi MCU (Nordic, STM32, ESP)
 - Multi power supply IC
 - Relay SPST, PDT case, SPST case
+- Sensors (current, touch, ToF, temperature)
+- MEMS (IMU, barometer, magnetometer)
+- Interface IC (CAN, Ethernet, RS485, USB, RF, WiFi)
+- Analog IC (op-amp, comparator), logic IC, motor driver IC
+- Memory (EEPROM, Flash, RAM)
 
 **Support size SMD:**
 

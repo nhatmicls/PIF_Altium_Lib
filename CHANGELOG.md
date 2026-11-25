@@ -2,6 +2,54 @@
 
 All notable changes to PIF_Altium_Lib will be documented in this file.
 
+## [2026-11-25]
+
+### Changed
+- **Altium_Sensor** (new) - sensor libraries moved out of `Altium_IC`:
+  - `CurrentSensor` renamed to `Current_Sensor` (files unchanged)
+  - `TouchSensorIC` renamed to `Touch_Sensor` (files unchanged)
+  - `TOF_Sensor` (new) - VL53L1CXV0FY/1 moved here from `Altium_IC/Other`
+  - `Temperature_Sensor` (new)
+- **Altium_B2B_Connector** (new) - new `HSR_BM28B06` library
+- **Altium_Other** - Renamed `Altium_SIM` to `Altium_Socket`
+- **Altium_Power_Supply_IC** - Renamed `TPS543xx_family` to `TPS_family`
+- **CAN.PcbLib** - Renamed footprint `SN65HVD230` to `SN65HVD230_SOIC-8`
+
+### Added
+- **Temperature_Sensor.SchLib / .PcbLib** - TMP117AIDRVR
+- **HSR_BM28B06.SchLib / .PcbLib** - BM28B0.6 series 0.35 mm B2B connectors, 6/10/16/20 pins, plug (DP) and receptacle (DS) (8 parts)
+- **Altium_Socket.SchLib / .PcbLib** - 1040310811
+- **TPS_family.SchLib / .PcbLib** - TPS7A8101DRBR
+- **CAN.SchLib / .PcbLib** - TCAN1462VDRBRQ1
+
+### Removed
+- **Altium_Power_Supply_IC** - Removed `78xx` library (L78xx regulators, 11 parts) and `LMR16020PDDA` library
+
+### Fixed
+- Minor fixes in **Capacitor_0603.SchLib**, **Capacitor.PcbLib**, **STM32.SchLib**, **IMU.SchLib**
+
+## [2026-11-13]
+
+### Changed
+- **Altium_MEMS** (new) - Moved `IMU` from `Altium_IC`; new `Baro` and `Magnetic` libraries
+- **Altium_Power_Supply_IC** - Renamed `LM1117_family` to `LM_family`
+
+### Added
+- **IMU.SchLib / .PcbLib** - BMI088, ICM-45686
+- **Baro.SchLib / .PcbLib** - MS561101BA03-50
+- **Magnetic.SchLib / .PcbLib** - MMC5983MA
+- **STM32.SchLib / .PcbLib** - STM32H743VIT6
+- **LM_family.SchLib / .PcbLib** - LM317EMPX/NOPB
+- **Other.SchLib / .PcbLib** - VL53L1CXV0FY/1, ZED-F9P-04B
+- **Terminal_Blocks_Pluggable_5.08mm.SchLib / Terminal_Blocks_Pluggable PCB_5.08mm.PcbLib** - DB2ER-5.08 and DB2EV-5.08 series (24 parts), replacing Würth 691311500xxx / 691312510xxx (20 parts)
+
+### Removed
+- **IMU.SchLib / .PcbLib** - BMI270, BMM150
+- **Other.SchLib / .PcbLib** - 74HC08D,653, CD4017BNSR, LM555CMX, TLC555CDR
+
+### Fixed
+- Minor fixes in **ESD.SchLib**, **Resistor_0603.SchLib**
+
 ## [2026-11-02]
 
 ### Changed

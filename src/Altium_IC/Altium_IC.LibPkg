@@ -186,40 +186,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BPRRHTQY
 
 [Document9]
-DocumentPath=TouchSensorIC.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZGPQEFVP
-
-[Document10]
-DocumentPath=TouchSensorIC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WFKLDPID
-
-[Document11]
 DocumentPath=LevelShift.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCKVKPLP
 
-[Document12]
+[Document10]
 DocumentPath=LevelShift.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJVVBETI
 
-[Document13]
+[Document11]
 DocumentPath=IO_Expander.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLABTNHI
 
-[Document14]
+[Document12]
 DocumentPath=IO_Expander.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPWHIOCW
 
-[Document15]
+[Document13]
 DocumentPath=Supervisor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWCVLOLZ
 
-[Document16]
+[Document14]
 DocumentPath=Supervisor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,41 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUJYPTPT
 
-[Document17]
-DocumentPath=CurrentSensor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FSUMRFBV
-
-[Document18]
-DocumentPath=CurrentSensor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CYBGAOUI
-
-[Document19]
+[Document15]
 DocumentPath=Other.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDLEODPM
 
-[Document20]
+[Document16]
 DocumentPath=Other.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
